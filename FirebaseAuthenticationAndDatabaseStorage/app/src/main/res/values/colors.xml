@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#fff025</color>
+    <color name="colorPrimaryDark">#fff025</color>
+    <color name="colorAccent">#FF4081</color>
+    <color name="yelloColor">#fff025</color>
+    <color name="yellocolor">#fff025</color>
+    <color name="fbColor">#3b5998</color>
+    <color name="googleColor">#d34836</color>
+    <color name="whiteColor">#ffffff</color>
+    <color name="balackColor">#000000</color>
+    <color name="grayLightColor">#D3D3D3</color>
+    <color name="limeGreenColor">#32CD32</color>
+    <color name="darkerGrayColor">#696969</color>
+    <color name="trasparentColor">#34035544</color>
+</resources>
